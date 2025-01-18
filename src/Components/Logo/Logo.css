@@ -1,0 +1,14 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo .icon {
+  width: 20px; /* Adjust the size of the image */
+  height: 20px; /* Maintain aspect ratio or adjust as needed */
+}
+
+.logo .name {
+  font-size: 1.5rem;
+}
